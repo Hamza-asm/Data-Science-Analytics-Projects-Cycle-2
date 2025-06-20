@@ -9,7 +9,7 @@ This project implements a text summarization pipeline to generate concise summar
 
 ## Dataset Description
 
-The [CNN/Daily Mail dataset](https://www.kaggle.com/datasets/sunnysai12345/news-summary) is a widely-used benchmark for news summarization tasks. It contains news articles and corresponding human-written summaries (called "highlights").
+The [CNN/Daily Mail dataset](https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail) is a widely-used benchmark for news summarization tasks. It contains news articles and corresponding human-written summaries (called "highlights").
 
 - **Files included:**  
   - `train.csv` — training split  
