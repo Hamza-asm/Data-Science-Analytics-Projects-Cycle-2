@@ -25,7 +25,7 @@ This notebook performs exploratory data analysis (EDA), feature engineering, mac
    - Scatter plots or grouped barplots for key pairs.
 
 5. **Model Building and Explainability:**  
-   - Train classification models (Random Forest, Logistic Regression).
+   - Train classification model (Random Forest).
    - Evaluate performance using metrics and confusion matrix.
    - Use SHAP for feature importance and explainability.
 
