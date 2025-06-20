@@ -17,7 +17,7 @@ This repository contains solutions and detailed analysis for the following tasks
    - Fine-tune models to improve the quality of summaries.
    - Test the model on real-world articles and evaluate summary coherence.
 
-3. **iin progress**  
+3. **in progress**  
 
 4. **in progress**  
 
