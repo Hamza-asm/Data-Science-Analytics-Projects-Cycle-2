@@ -22,7 +22,7 @@ The [CNN/Daily Mail dataset](https://www.kaggle.com/datasets/gowrishankarp/newsp
 
 **To download the dataset from Kaggle via API:**  
 ```bash
-kaggle datasets download -d sunnysai12345/news-summary
+kaggle datasets download -d gowrishankarp/newspaper-text-summarization-cnn-dailymail
 ```
 
 ---
