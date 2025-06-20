@@ -10,16 +10,16 @@ This repository contains solutions and detailed analysis for the following tasks
    - Build and interpret classification models to predict employee attrition using the IBM HR Analytics dataset.
    - Includes data preprocessing, EDA, model training (Random Forest, Logistic Regression), explainability (SHAP/LIME), and HR business recommendations.
 
-2. **Customer Segmentation with Clustering**  
-   - Apply clustering algorithms (K-Means, Hierarchical) to segment customers based on purchasing behavior and demographics.
-   - Includes exploratory data analysis, feature engineering, visualization, and practical interpretation of clusters for business targeting.
+2. **Text Summarization**  
+   - Preprocess textual data for summarization.
+   - Implement extractive summarization using libraries like spaCy.
+   - Implement abstractive summarization using pre-trained models like BERT HuggingFace's transformers.
+   - Fine-tune models to improve the quality of summaries.
+   - Test the model on real-world articles and evaluate summary coherence.
 
-3. **Sales Forecasting and Regression**  
-   - Build regression models to forecast sales using historical sales data.
-   - Steps include data cleaning, feature engineering, EDA, model implementation (Linear Regression, Decision Trees), evaluation, and forecasting visualization.
+3. **iin progress**  
 
-4. **Churn Prediction with Model Explainability**  
-   - Predict customer churn using classification algorithms and provide explainable AI insights.
-   - Workflow includes data preparation, feature selection, model training (Logistic Regression, XGBoost), and interpretation with SHAP or LIME.
+4. **in progress**  
+
 
 Each notebook includes clear code, markdown explanations, results interpretation, and business recommendations. Datasets and relevant visuals are provided for reproducibility.
