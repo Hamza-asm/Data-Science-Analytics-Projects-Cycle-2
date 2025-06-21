@@ -21,8 +21,13 @@ The [CNN/Daily Mail dataset](https://www.kaggle.com/datasets/gowrishankarp/newsp
   - `highlights`: Human-written summary
 
 **To download the dataset from Kaggle via API:**  
-```bash
-kaggle datasets download -d gowrishankarp/newspaper-text-summarization-cnn-dailymail
+```python
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("gowrishankarp/newspaper-text-summarization-cnn-dailymail")
+
+print("Path to dataset files:", path)
 ```
 
 ---
