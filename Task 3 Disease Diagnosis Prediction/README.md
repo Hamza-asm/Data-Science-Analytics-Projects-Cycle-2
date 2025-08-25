@@ -1,4 +1,8 @@
-# Task 3: Disease Diagnosis Prediction – Heart Disease
+<p align="center">
+  <img width="579" height="328" alt="HeartDise" src="https://github.com/user-attachments/assets/6bf59332-c640-42e5-9e33-a46c95f08475" />
+</p>
+
+
 ---
 
 ## Overview
