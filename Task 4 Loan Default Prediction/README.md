@@ -1,4 +1,7 @@
-# Task 4: Loan Default Prediction – Lending Club
+<p align="center">
+  <img width="579" height="328" alt="LoanDef" src="https://github.com/user-attachments/assets/7e1e7d50-a7ce-45bb-bbbf-b5233f56c872" />
+</p>
+
 
 ---
 
