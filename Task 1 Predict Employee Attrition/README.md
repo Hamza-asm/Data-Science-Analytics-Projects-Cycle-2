@@ -1,4 +1,8 @@
-# Task 1: Predict Employee Attrition Using HR Analytics
+
+<p align="center">
+  <img width="647" height="328" alt="Employee attrition" src="https://github.com/user-attachments/assets/f4064bf2-6248-4b46-8cb1-bf0514b4fdaf" />
+</p>
+
 
 ## Overview
 
