@@ -1,4 +1,8 @@
-# Task 2: Text Summarization with CNN/Daily Mail Dataset
+<p align="center">
+  <img width="579" height="328" alt="TextSummer" src="https://github.com/user-attachments/assets/8e6b0650-3219-46e2-ba2f-2c31c30bd06c" />
+</p>
+
+
 ---
 
 ## Overview
